@@ -1,1 +1,5 @@
-# Reac-hooks-with-TypeScript-HW
+# Reac-hooks-with-TypeScript-HW 
+على التمرين السابق , قم بإضافة : 
+- قم بإضافة تصميم على التمرين باستخدام Chakra-Ui .
+- قم بإضافة التنقلات في الموقع باستخدام react-router-dom .
+- قم باضافة خيار البحث في النتائج (search bar) يظهر النتائج و الاينتقل لها . 
